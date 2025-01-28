@@ -25,4 +25,24 @@ O Jogo do Amigo Secreto é um sistema simples que permite adicionar nomes de ami
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 
+## Pré-requisitos para rodar o programa localmente
+
+* [x] Ter o git instalado;
+* [x] Ter o VScode instalado;
+* [x] Ter uma IDE instalada;
+* [x] Clonar o repositório;
+* [x] Rodar o projeto;
+      
+
+## Descrição do projeto/Requisitos - Oracle Next Education
+
+**O Que deve ser utilizado**
+
+- Variáveis
+- Funções
+- Arrays
+- Condicionais
+
+
+
 
