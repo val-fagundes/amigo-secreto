@@ -43,6 +43,9 @@ O Jogo do Amigo Secreto é um sistema simples que permite adicionar nomes de ami
 - Arrays
 - Condicionais
 
+## Link para acessar o jogo
+https://amigo-secreto-gules-one.vercel.app/
+
 
 
 
